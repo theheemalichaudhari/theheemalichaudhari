@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theheemalichaudhari
-- 👀 I’m interested in Machine Learning & Artificial Intelligence.
-- 🌱 I’m currently working on projects.
+- 👀 I’m interested in Machine Learning, Data Analytics, Deep Learning & Software Testing.
+- 🌱 I’m currently working on projects related to testing and data analytics.
 - 📫 How to reach me? You can contact me on LinkedIn: https://www.linkedin.com/in/theheemalichaudhari/ 
 
 <!---
