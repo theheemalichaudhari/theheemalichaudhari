@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Heemali Chaudhari <br>👀 I’m interested in Machine Learning, Data Analytics, Deep Learning & Software Testing.<br>🌱 I’m currently working on projects related to testing and data analytics.<br>📫 How to reach me? You can contact me on any of the socials listed below.
+👋 Hi, I’m Heemali Chaudhari <br>👀 I’m interested in Machine Learning, Data Analytics & Deep Learning.<br>🌱 I’m currently working on projects related to data analytics.<br>📫 How to reach me? You can contact me on any of the socials listed below.
 
 
 ## 🌐 Socials:
