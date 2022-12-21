@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Fdata-analysis-process%2F612&psig=AOvVaw0cShphL7o6_pD-4ONIc3iZ&ust=1671717661486000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPin3OHvivwCFQAAAAAdAAAAABAQ)" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Fdata-analysis-process%2F612&psig=AOvVaw0cShphL7o6_pD-4ONIc3iZ&ust=1671717661486000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPin3OHvivwCFQAAAAAdAAAAABAQ" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=theheemalichaudhari&icon=1&color=10)](https://visitcount.itsvg.in)
