@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@theheemalichaudhari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@theheemalichaudhari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@theheemalichaudhari) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Heemali) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@theheemalic) 
 
-## ![image](https://user-images.githubusercontent.com/85636824/212845816-95addb04-e2e4-436a-9932-69c5653bccde.png) Profile Views
+## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=theheemalichaudhari&style=plastic&color=blueviolet&label=PROFILE+VIEWS)
 
 # 💻 Tech Stack:
