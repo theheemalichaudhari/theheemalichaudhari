@@ -18,5 +18,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theheemalichaudhari&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=theheemalichaudhari&theme=dark&hide_border=true&border_radius=6.5&fire=DD23C3)](https://git.io/streak-stats)
