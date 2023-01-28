@@ -14,5 +14,7 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theheemalichaudhari)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=theheemalichaudhari&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theheemalichaudhari&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
